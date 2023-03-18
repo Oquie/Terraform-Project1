@@ -8,6 +8,6 @@ A project to provision resources AWS Cloud
 Task:
 ->Create ReadME File
 
-->Set branch- protection rule for merging on PR
+->Set branch- protection rule for merging on PR (pull request)
 
 ->Set your aws credentials as repository secrets
